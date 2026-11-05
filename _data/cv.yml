@@ -1,0 +1,152 @@
+cv:
+  name: Heayoun (Cindy) Choi
+  label: Research Intern at the University of Toronto
+  email: heayounchoi@gmail.com
+  location: Toronto, Canada
+  image: ""
+  summary: Research Intern at the University of Toronto's MEDCVR Lab researching generalization, autonomous adaptation, and structured reasoning for reliable decision-making in the physical world.
+
+  social_networks:
+    - network: GitHub
+      username: heayounchoi
+
+  sections:
+    Research Interests:
+      - label: Generalization and Autonomous Adaptation
+        details: Developing systems that leverage prior knowledge and limited new experience to adapt beyond training distributions and continuously acquire missing knowledge in novel environments.
+      - label: Reasoning in the Physical World
+        details: Combining learned representations with structured reasoning and physical constraints for more reliable decision-making in real-world settings.
+    Education:
+      - institution: Chung-Ang University
+        location: Seoul, Korea
+        url: https://airlab.cau.ac.kr/
+        area: Computer Science & Engineering
+        studyType: M.S.
+        start_date: 2024-09
+        end_date: 2026-08
+        highlights:
+          - AI and Robotics Lab
+          - "Advisor: Eunwoo Kim"
+      - institution: Soongsil University
+        location: Seoul, Korea
+        area: Business Administration
+        studyType: B.S.
+        start_date: 2018-02
+        end_date: 2022-02
+        highlights:
+          - Summa Cum Laude
+
+    Publications:
+      - title: "XIL: Cross-Expanding Incremental Learning"
+        authors: [Heayoun Choi, Hyundong Jin, Eunwoo Kim]
+        publisher: ICLR 2026
+        releaseDate: 2026
+        url: https://openreview.net/forum?id=eaAGI1lIb4
+      - title: Detecting Failures in Robot Manipulation via Distance-Aware Temporal Modelling
+        authors: [Heayoun Choi, Eunwoo Kim]
+        publisher: Electronics Letters
+        releaseDate: 2026
+        url: https://doi.org/10.1049/ell2.70629
+      - title: Relevance-Guided Retrieval under Continually Expanding Knowledge Bases
+        authors: [Hyundong Jin, Heayoun Choi, Eunwoo Kim]
+        publisher: ICTC 2025
+        releaseDate: 2025
+        url: https://ieeexplore.ieee.org/document/11388632
+      - title: Sparse Feature Policy Unlearning Mitigates State Hallucination in Vision-Language-Action Models
+        authors: [Jiho Lee, Jeongeun Park, Heayoun Choi, Taekyung Kim, Eunwoo Kim]
+        publisher: arXiv preprint
+        releaseDate: 2026
+      - title: Can Vision-Language-Action Models Adapt to Visual Perturbations Using a Test-Time Trajectory?
+        authors: [Jiho Lee, Heayoun Choi, Eunwoo Kim]
+        publisher: IEEE Robotics and Automation Letters (RA-L)
+        releaseDate: 2026
+
+    Funded Research:
+      - name: Socially-Aligned and Trustworthy Robot Learning
+        start_date: 2026
+        end_date: 2026
+        highlights:
+          - Selected for NIPA's Advanced GPU Utilization Support Program, receiving two NVIDIA B200 GPU servers (16 GPUs).
+          - Proposed the research direction and led the successful proposal development.
+      - name: "Lifelong Robot Learning: Foundation and Continuous Adaptation to Tasks, Domains, and Modalities"
+        start_date: 2026
+        end_date: 2026
+        highlights:
+          - Selected for a three-year NRF Core Research (Type B) grant of up to USD 145,000 per year.
+          - Proposed the research direction and led the successful proposal development.
+
+    Software Project:
+      - name: Gachimind
+        start_date: 2023
+        end_date: 2023
+        url: https://github.com/gachimind
+        highlights:
+          - Developed a real-time video mock interview platform using React.js, Node.js, WebRTC, and Socket.io, including session management, REST APIs, and authentication.
+          - Built the frontend with React.js, Redux, RTK Query, and Styled Components, using Git and Figma for collaborative development and UI/UX design.
+
+    Experience:
+      - company: FNPricing
+        position: Fixed Income Valuation Analyst
+        location: Seoul, Korea
+        start_date: 2023-03
+        end_date: 2023-09
+        highlights:
+          - Developed and refined a bond evaluation engine to improve the accuracy and efficiency of pricing and assessment workflows.
+          - Managed and analyzed financial datasets and evaluated instruments including mortgage-backed securities and government bonds.
+      - company: Yonhap Infomax
+        position: Financial Engineering Intern
+        location: Seoul, Korea
+        start_date: 2022-03
+        end_date: 2022-09
+        highlights:
+          - Maintained and validated bond-related datasets and financial calculation systems.
+
+    Teaching Experience:
+      - company: Chung-Ang University
+        position: Teaching Assistant
+        location: Seoul, Korea
+        start_date: 2025
+        end_date: 2026
+        highlights:
+          - Machine Learning (CSE54616)
+          - Capstone Design (CSE56120)
+
+    Academic Service:
+      - company: Conference and Journal Reviewer
+        position: Reviewer
+        start_date: 2025
+        end_date: 2026
+        highlights:
+          - NeurIPS, ECCV, ICCV, CoRL, AAAI, and Neural Networks
+
+    Awards:
+      - title: CAU Graduate Research Scholarship (GRS)
+        date: 2024–2026
+        awarder: Chung-Ang University
+      - title: Best Corporate Award at Hang-Hackathon
+        date: 2023-10
+        awarder: EcubeLab
+        summary: “AngleEye,” a computer vision system for precision angle estimation.
+      - title: Academic Excellence Award
+        date: 2022-02
+        awarder: Soongsil University
+      - title: Best Award for Model United Nations
+        date: 2021-02
+        awarder: Korean National Diplomatic Academy
+      - title: Best Award for Public Diplomacy Video
+        date: 2021-02
+        awarder: Korean National Diplomatic Academy
+
+    Skills:
+      - name: Robotics
+        keywords: "ROS/ROS 2, MuJoCo, Franka Emika Panda, Franka Research 3 (FR3), real-robot manipulation and experimentation"
+      - name: Programming
+        keywords: "Python, C/C++, JavaScript/TypeScript, SQL, VBA, nesC"
+
+    Certificates:
+      - name: Advanced Data Analytics Semi-Professional (ADsP)
+        date: "TODO: date not stated in CV"
+        issuer: "TODO: issuer not stated in CV"
+      - name: Computerized Accounting Operator Level 2
+        date: "TODO: date not stated in CV"
+        issuer: "TODO: issuer not stated in CV"
